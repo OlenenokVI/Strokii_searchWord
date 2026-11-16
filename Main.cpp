@@ -113,7 +113,7 @@ int main() {
 	std::wcout << L"\nИзмененное предложение: " << result << L"\n\n";
 
 	std::wcout << L"\t << 4 >>\n";
-
+	 
 	std::wstring sentence;
 	std::wstring searchWord;
 
